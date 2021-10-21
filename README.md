@@ -13,7 +13,7 @@ Entender los principales conceptos dentro del manejo de memoria en el entono Nod
 
 Objetivos Específicos:
 
--Entender qué son y para qué sirven los buffers. 
+- Entender qué son y para qué sirven los buffers. 
 
 - Aprender el concepto y la aplicación de los streams. 
 
